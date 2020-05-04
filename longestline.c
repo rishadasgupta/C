@@ -1,6 +1,6 @@
 /*
  * Author: Risha Dasgupta
- *Purpost: Reads given input file and returhs the length of the longest line
+ * Purpose: Reads given input file and returhs the length of the longest line
  */
 
 
